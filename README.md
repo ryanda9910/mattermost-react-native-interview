@@ -8,7 +8,7 @@ Take this opportunity to inspect the code, run the project and try to debug and 
 During your interview you will need to answer questions about how you found the bugs you found, what the reasons behind your specific fixes are, and why you decided some particular working code needed improvement.
 
 ### Goal
-1. Be able to run the project
+1. Be able to run the project (do make sure to have all dependencies up to date)
 2. Identify and fix bugs
 3. Improve performance when possible
 4. Do **not** spend more than 2 hours
